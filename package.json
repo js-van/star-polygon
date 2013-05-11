@@ -1,0 +1,33 @@
+{
+  "name": "star-polygon",
+  "version": "0.0.0",
+  "description": "Generate star polygons",
+  "main": "star.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "scratch": "~0.0.0"
+  },
+  "devDependencies": {
+    "tap": "~0.4.2"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/star-polygon.git"
+  },
+  "keywords": [
+    "star",
+    "polygon",
+    "graph",
+    "test",
+    "data"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "e002c6e71d1045e47e848740702fc532ae0080f5"
+}
